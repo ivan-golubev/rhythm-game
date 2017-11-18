@@ -12,4 +12,8 @@ Git repo: TBD
 
 1.4 Target device - samsung galaxy s8 plus.
 
-2.
+2. Music - the launchpad music from http://soundcloud.com
+Starwars: https://www.youtube.com/watch?v=u6YWj9AxJi0, http://pintient.com/1NWm, 
+The legend of Zelda: https://www.youtube.com/watch?v=E_tciTfFNhE, http://riffhold.com/17wV
+
+Converting to ogg vorbis: https://cloudconvert.com/anything-to-ogg

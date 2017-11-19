@@ -6,7 +6,7 @@ Personal account, free version
 
 1.2 Visual Studio 2017: https://www.visualstudio.com/downloads/
 
-1.3 Git client: https://www.gitkraken.com/download
+1.3 Git client: https://www.gitkraken.com/download or source tree: https://www.sourcetreeapp.com/
 
 Git repo: TBD
 

@@ -524,7 +524,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1213988842}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.950012, y: -22.5, z: 0}
+  m_LocalPosition: {x: -1.317688, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1761352259}
@@ -532,8 +532,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 14.95, y: -22.5}
-  m_SizeDelta: {x: 1136.9, y: 639.7}
+  m_AnchoredPosition: {x: -1.3177, y: -0.00000095367}
+  m_SizeDelta: {x: 797.56, y: 448.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1213988844
 MonoBehaviour:
@@ -613,7 +613,7 @@ MonoBehaviour:
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -651,7 +651,7 @@ RectTransform:
   m_GameObject: {fileID: 1761352255}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 445.3}
-  m_LocalScale: {x: 1.0042737, y: 1.0042737, z: 1.0042737}
+  m_LocalScale: {x: 1.028125, y: 1.028125, z: 1.028125}
   m_Children:
   - {fileID: 1213988843}
   - {fileID: 1963216132}
@@ -687,7 +687,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1963216131}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 365.54, y: 225.6, z: 0}
+  m_LocalPosition: {x: 302, y: 182, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1761352259}
@@ -695,8 +695,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 365.54, y: 225.6}
-  m_SizeDelta: {x: 205.8, y: 75.8}
+  m_AnchoredPosition: {x: 302, y: 182}
+  m_SizeDelta: {x: 167.9, y: 61.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1963216133
 MonoBehaviour:
@@ -719,7 +719,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 48
+    m_FontSize: 42
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10

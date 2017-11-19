@@ -61,10 +61,10 @@ public class Gameplay : MonoBehaviour
             if (hit.collider.tag == gameItemTag && Input.GetMouseButtonDown(0))
             {
                 SphereGameItem sphere = hit.collider.gameObject.GetComponent<SphereGameItem>();
-                if (!sphere.clicked)
+                if (!sphere.wasClicked())
                 {
                     score++;
-                    sphere.clicked = true;
+                    sphere.onClick();
                 }
             }
         }
